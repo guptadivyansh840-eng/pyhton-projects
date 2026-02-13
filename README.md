@@ -4,6 +4,8 @@ Hi, I am Divyansh Gupta. This repository Python projects using IDLE
 |File name|Description|
 1-|vmart.py|shopping mall payment system|
 2-|parenthesis2.py|parenthesis balance checking- Stack, LIFO|
+3-|expense.py|-expense tracker- dictinary,logic, building,calculations|
+
 
 
 
